@@ -9,7 +9,7 @@ $ cd src
 $ dotnet run
 ```
 
-You can view the Hangfire dashboard by navigating to `http://localhost:5000/hangfire`.
+You can view the Hangfire dashboard by navigating to http://localhost:5000/hangfire.
 
 ## Known issues
 
